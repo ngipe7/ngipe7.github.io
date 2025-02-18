@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-# Ryan V Ryan
+# Ryan V Ryan Liquid Table
 
 ![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
 
