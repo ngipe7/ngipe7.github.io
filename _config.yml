@@ -21,7 +21,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -51,7 +50,7 @@ social-network-links:
 # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: Nichole Gipe, CHES®
+#  linkedin: Nichole Gipe, CHES®
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
